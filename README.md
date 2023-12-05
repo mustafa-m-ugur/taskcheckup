@@ -1,4 +1,4 @@
 # taskcheckup
 taskcheckup.com Android, Ios mobile app
 
-<img src="https://github.com/mustafa-m-ugur/taskcheckup/tree/main/assets/images/tasks.png" >
+<img src="https://raw.githubusercontent.com/mustafa-m-ugur/taskcheckup/main/assets/images/tasks.png" >
